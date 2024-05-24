@@ -1,15 +1,15 @@
 {
-  "name": "YOUSAF KHAN@1.2.8",
-  "description": "I am YOUSAF KHAN-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "name": "SULTAN KHAN@1.2.8",
+  "description": "I am SULTAN KHAN-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
   "logo": "https://telegra.ph/file/4c6df8243017a1f7e7890.jpg",
-  "keywords": ["whatsappbot", "YOUSAF Md", "YOUSAF Md bot", "YOUSAF-Md", "YOUSAFMdWhatsaooBot", "YousafWaBot","YousafMD","YousafMd Whatsapp Bot","multi device"],
-  "success_url": "/yousaf/",
+  "keywords": ["whatsappbot", "SULTAN Md", "FUCK Md bot", "DON-Md", "SULTANMdWhatsappBot", "SultanWaBot","SultanMD","SultanMd Whatsapp Bot","multi device"],
+  "success_url": "/FUCK/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
-      "description": "YOUSAF BALOCH",    
-      "value": "Yousaf Ser",
+      "description": "DON BALOCH",    
+      "value": "Sultan Ser",
       "required" :true
     },   
      
@@ -25,9 +25,9 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " YOUSAF KHAN",
+      "description": " DON KHAN",
       "required" :false,    
-      "value": "YOUSAF BALOCH"
+      "value": "SULTAN BALOCH"
     }, 
     "IMAGE": {
       "description": "Image for bot",
