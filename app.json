@@ -1,15 +1,15 @@
 {
-  "name": "YOUSAF KHAN@1.2.8",
-  "description": "I am YOUSAF KHAN-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "name": "SULTAN KHAN@1.2.8",
+  "description": "I am SULTAN KHAN-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
   "logo": "https://telegra.ph/file/4c6df8243017a1f7e7890.jpg",
-  "keywords": ["whatsappbot", "YOUSAF Md", "YOUSAF Md bot", "YOUSAF-Md", "YOUSAFMdWhatsaooBot", "YousafWaBot","YousafMD","YousafMd Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "SULTAN Md", "YOUSAF Md bot", "SULTAN-Md", "SULTANMdWhatsappBot", "SultanWaBot","SultanMD","SultanMd Whatsapp Bot","multi device"],
   "success_url": "/yousaf/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
-      "description": "YOUSAF BALOCH",    
-      "value": "Yousaf Ser",
+      "description": "SULTAN BALOCH",    
+      "value": "Sultan Ser",
       "required" :true
     },   
      
@@ -25,14 +25,14 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " YOUSAF KHAN",
+      "description": " SULTAN KHAN",
       "required" :false,    
-      "value": "YOUSAF BALOCH"
+      "value": "SULTAN BALOCH"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/4c6df8243017a1f7e7890.jpg"
+      "value": "https://telegra.ph/file/IMG_20240101_133420.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923115971525"
+      "value": "923194778990"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "YOUSAF KHAN BALOCH",
+      "value": "Y/SULTAN KHAN BALOCH",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "APNI PICTURE KA FREE STICKER BANWANY KAY LEYEA CONTACT ME 💔 03115971525",
+      "value": "APNI PICTURE KA FREE STICKER BANWANY KAY LEYEA CONTACT ME 💔 03194778990",
       "required": false 
     }
   }, 
